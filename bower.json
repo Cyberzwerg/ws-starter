@@ -1,0 +1,25 @@
+{
+  "name": "ws-starter",
+  "version": "0.0.0",
+  "description": "a starter frame for web applications using ws.js to build comet apps",
+  "main": "./build/app.js",
+  "keywords": [
+    "Comet",
+    "Ws.js",
+    "Websocket",
+    "framework",
+    "starter"
+  ],
+  "authors": [
+    "Cyberzwerg"
+  ],
+  "license": "GNU GENERAL PUBLIC LICENSE 2",
+  "homepage": "https://github.com/Cyberzwerg/ws-starter",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
