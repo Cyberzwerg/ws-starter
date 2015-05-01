@@ -11,7 +11,7 @@ var paths = {
     sass: ['./src/client/scss/*.scss'],
     jade: ['./src/client/templates/*.jade'],
     coffeeClient: ['./src/client/coffee/*.coffee'],
-    coffeServer: ['./src/*.coffee'],
+    coffeServer: ['./src/server/*.coffee'],
 
 };
 
